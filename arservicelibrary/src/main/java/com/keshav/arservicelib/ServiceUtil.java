@@ -1,12 +1,8 @@
-package assignment1.keshav.com.activityrecognitiontest;
+package com.keshav.arservicelib;
 
 import android.app.ActivityManager;
-import android.app.Application;
-import android.app.ApplicationErrorReport;
 import android.content.Context;
 import android.util.Log;
-
-import java.util.List;
 
 /**
  * Created by Laptop on 5/2/2015.

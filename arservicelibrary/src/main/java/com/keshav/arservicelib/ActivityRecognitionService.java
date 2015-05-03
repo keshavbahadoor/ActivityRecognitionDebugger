@@ -1,4 +1,4 @@
-package assignment1.keshav.com.activityrecognitiontest;
+package com.keshav.arservicelib;
 
 import android.app.PendingIntent;
 import android.app.Service;

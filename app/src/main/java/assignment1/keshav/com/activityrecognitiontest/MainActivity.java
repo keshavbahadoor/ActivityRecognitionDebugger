@@ -1,7 +1,6 @@
 package assignment1.keshav.com.activityrecognitiontest;
 
 import android.app.Activity;
-import android.app.PendingIntent;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
@@ -12,8 +11,8 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
-import com.google.android.gms.common.api.GoogleApiClient;
-import com.google.android.gms.location.DetectedActivity;
+import com.keshav.arservicelib.*;
+
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonElement;

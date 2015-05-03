@@ -1,4 +1,4 @@
-package assignment1.keshav.com.activityrecognitiontest;
+package com.keshav.arservicelib;
 
 import android.content.Context;
 import android.util.Log;

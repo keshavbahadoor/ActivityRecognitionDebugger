@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActivityRecognitionTest.iml" filepath="$PROJECT_DIR$/ActivityRecognitionTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arservicelibrary/arservicelibrary.iml" filepath="$PROJECT_DIR$/arservicelibrary/arservicelibrary.iml" />
     </modules>
   </component>
 </project>

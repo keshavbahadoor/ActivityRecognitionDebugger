@@ -1,4 +1,4 @@
-package assignment1.keshav.com.activityrecognitiontest;
+package com.keshav.arservicelib;
 
 import com.google.android.gms.location.DetectedActivity;
 
